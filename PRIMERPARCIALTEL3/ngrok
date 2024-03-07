@@ -1,0 +1,13 @@
+Session Status                connecting                                                                                                                                Try the new Traffic Inspector dev preview: https://ngrok.com/r/ti
+
+Session Status                online/127.0.0.1:4040
+Accou                          ayder.murillo@uao.edu.co (Plan: Free)
+Version                       3.6.0   opn     rt1     rt5     p50     p90
+Region                        United States (us)
+Latency                       137ms
+Web Interface                 http://127.0.0.1:4040
+Forwarding                    https://9359-191-106-238-26.ngrok-free.app -> http://192.168.50.3:80
+
+Connections                   ttl     opn     rt1     rt5     p50     p90
+                              0       0       0.00    0.00    0.00    0.00
+                                                                            
